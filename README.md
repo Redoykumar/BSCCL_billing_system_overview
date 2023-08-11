@@ -1,6 +1,8 @@
 # BSCCL Billing System
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/2/2b/BSCCL_-Logo.png" alt="BSCCL Logo" width="200">
+  <br>
+  <!-- <img src="images/billing.gif" alt="Billing GIF" style="width: 100%;"> -->
 </div>
 
 ## 🚀 Overview
@@ -11,6 +13,10 @@ Check out how the BSCCL Billing System works in action:
 <div align="center">
   <img src="images/billing.gif" alt="Billing GIF" style="width: 100%;">
 </div>
+
+## 💡 Developed by Dream71 Bangladesh Ltd.
+
+The BSCCL Billing System was proudly developed by Dream71 Bangladesh Ltd., a leading technology company in Bangladesh known for delivering innovative and impactful solutions.
 
 ## 🌟 Why Use the BSCCL Billing System
 
