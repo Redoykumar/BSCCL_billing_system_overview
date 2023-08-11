@@ -8,7 +8,9 @@
 Welcome to the BSCCL Billing System – a prestigious government project developed to revolutionize bill management and financial operations for the Bangladesh Submarine Cable Company Limited (BSCCL). This system is designed to handle complex calculations with unparalleled accuracy, ensuring the utmost precision in every transaction.
 
 Check out how the BSCCL Billing System works in action:
-![BSCCL Billing System Demo](images/billing.gif)
+<div align="center">
+  <img src="images/billing.gif" alt="Billing GIF" style="width: 100%;">
+</div>
 
 ## 🌟 Why Use the BSCCL Billing System
 
